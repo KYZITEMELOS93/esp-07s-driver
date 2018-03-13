@@ -1,0 +1,20 @@
+{
+    "name": "wifi_driver",
+    "version": "0.1.0",
+    "description": "",
+    "author": "",
+    "main": "src/index.js",
+    "ruff": {
+        "boards": {
+            "ruff-mbd-v1": "^4.2.6",
+            "*": "*"
+        },
+        "dependencies": {}
+    },
+    "dependencies": {
+        "async": "^2.5.0",
+        "event": "^1.0.0",
+        "events": "^1.1.1",
+        "serialport": "^5.0.0-beta7"
+    }
+}
