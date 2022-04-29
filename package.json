@@ -12,7 +12,7 @@
         "dependencies": {}
     },
     "dependencies": {
-        "async": "^2.5.0",
+        "async": "^2.6.4",
         "event": "^1.0.0",
         "events": "^1.1.1",
         "serialport": "^5.0.0-beta7"
